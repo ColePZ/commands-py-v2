@@ -18,5 +18,20 @@ if command == "Help":
  print("Hello")
  
  
- if command == "Ping":
- print("Pong")
+ if command == "bread":
+ print("delicious")
+ 
+ 
+ if command == "Pie":
+ print("Nice")
+ 
+ if command == "Chocolate":
+ print("Creamy") 
+ 
+ 
+  if command == "Sausage":
+ print("Tasty")
+
+ 
+  if command == "":
+ print("")
