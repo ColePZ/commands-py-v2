@@ -33,5 +33,5 @@ if command == "Help":
  print("Tasty")
 
  
-  if command == "":
- print("")
+  if command == "Apple":
+ print("Juicey")
