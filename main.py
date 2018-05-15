@@ -35,3 +35,14 @@ if command == "Help":
  
   if command == "Apple":
  print("Juicey")
+
+ 
+ if command == "Pepper":
+ print("Spicy") 
+ 
+ 
+ if command == "Chille":
+ print("Boiling") 
+
+
+  
